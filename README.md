@@ -43,13 +43,13 @@ Example: **Workflow for Detection and Interpretability Analysis of a Single CT I
 
 **The workflow**:
 
-![image-20250707170145989](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170102509.png)
+![image-20250707170102509](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170145989.png)
 
 ---
 
 Generate Local Perturbation Samples and Construct a New Dataset:
 
-![image-20250707170102509](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170145989.png)
+![image-20250707170145989](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170102509.png)
 
 ## Case Explanation
 
