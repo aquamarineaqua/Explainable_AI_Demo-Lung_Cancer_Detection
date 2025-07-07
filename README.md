@@ -2,7 +2,17 @@ A Explainable AI Demo:
 
 **Intelligent Diagnosis and Interpretability of Lung Cancer from CT Images**
 
-[TOC]
+## Table of Contents
+
+  - [Abstract](#abstract)
+  - [Methods](#methods)
+    - [1 LIME](#1-lime)
+    - [2 Interpretability Analysis of CT Images using LIME](#2-interpretability-analysis-of-ct-images-using-lime)
+  - [Case Explanation](#case-explanation)
+    - [1 Interpretability Analysis of Lung Adenocarcinoma Samples](#1-interpretability-analysis-of-lung-adenocarcinoma-samples)
+    - [2 Interpretability Analysis of Lung Squamous Cell Carcinoma Samples](#2-interpretability-analysis-of-lung-squamous-cell-carcinoma-samples)
+    - [3 Feature Regions Noticed by the Model When Explaining Different Classes](#3-feature-regions-noticed-by-the-model-when-explaining-different-classes)
+
 
 ## Abstract
 
@@ -19,36 +29,38 @@ Main Contributions:
 
 Example: **Workflow for Detection and Interpretability Analysis of a Single CT Image Sample**
 
-![image-20250707165614329](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707165614329.png)
+![image-20250707165614329](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707165614329.png)
 
 ## Methods
 
 ### 1 LIME
 
-![image-20250707165746738](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707165746738.png)
+![image-20250707165746738](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707165746738.png)
 
-![image-20250707165803356](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707165803356.png)
+![image-20250707165803356](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707165803356.png)
 
 ### 2 Interpretability Analysis of CT Images using LIME
 
 **The workflow**:
 
-![image-20250707170145989](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707170145989.png)
+![image-20250707170145989](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170102509.png)
+
+---
 
 Generate Local Perturbation Samples and Construct a New Dataset:
 
-![image-20250707170102509](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707170102509.png)
+![image-20250707170102509](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707170145989.png)
 
 ## Case Explanation
 
 ### 1 Interpretability Analysis of Lung Adenocarcinoma Samples
 
-![image-20250707171916676](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707171916676.png)
+![image-20250707171916676](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707171916676.png)
 
 ### 2 Interpretability Analysis of Lung Squamous Cell Carcinoma Samples
 
-![image-20250707172027792](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707172027792.png)
+![image-20250707172027792](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707172027792.png)
 
 ### 3 Feature Regions Noticed by the Model When Explaining Different Classes
 
-![image-20250707172108922](C:\Users\chenk\Desktop\Queen's Life\PROJECT\Previous_Work(Explainable_AI)\img\image-20250707172108922.png)
+![image-20250707172108922](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707172108922.png)
