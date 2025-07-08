@@ -64,3 +64,10 @@ Generate Local Perturbation Samples and Construct a New Dataset:
 ### 3 Feature Regions Noticed by the Model When Explaining Different Classes
 
 ![image-20250707172108922](https://github.com/aquamarineaqua/Explainable_AI_Demo-Lung_Cancer_Detection/blob/main/img/image-20250707172108922.png)
+
+
+## Reference
+
+[1] Ribeiro, Marco Tulio, Sameer Singh,  and Carlos Guestrin. "" Why should i trust you?" Explaining the  predictions of any classifier." Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.
+
+[2] Li, P., Wang, S., Li, T., Lu, J., HuangFu, Y., Wang, D. A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis (Lung-PET-CT-Dx) [Data set]. The Cancer Imaging Archive[EB/OL]. https://doi.org/10.7937/TCIA.2020.NNC2-0461, 2020.
