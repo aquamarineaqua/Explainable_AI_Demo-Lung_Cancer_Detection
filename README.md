@@ -1,4 +1,4 @@
-A Explainable AI Demo:
+An Explainable AI Demo:
 
 **Intelligent Diagnosis and Interpretability of Lung Cancer from CT Images**
 
